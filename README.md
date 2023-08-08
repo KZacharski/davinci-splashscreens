@@ -1,6 +1,8 @@
 # davinci-splashscreens
 Custom splash screens for Mi 9T (davinci)
 
+![A showcase of all the splashscreens](https://github.com/KZacharski/davinci-splashscreens/blob/6c2ef75976f76a476d4b80dac57b7a712ed176d3/splash-screens.png)
+
 Download in GitHub releases
 
 How to flash: fastboot flash logo logo-*.img
